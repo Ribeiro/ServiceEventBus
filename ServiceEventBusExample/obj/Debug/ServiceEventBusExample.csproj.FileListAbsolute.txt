@@ -1,0 +1,6 @@
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\bin\Debug\ServiceEventBusExample.exe.config
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\obj\Debug\ServiceEventBusExample.csprojResolveAssemblyReference.cache
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\bin\Debug\ServiceEventBusExample.exe
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\bin\Debug\ServiceEventBusExample.pdb
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\obj\Debug\ServiceEventBusExample.exe
+c:\users\geovannyribeiro\documents\visual studio 2015\Projects\ServiceEventBusExample\ServiceEventBusExample\obj\Debug\ServiceEventBusExample.pdb
